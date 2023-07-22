@@ -1,0 +1,22 @@
+{
+  "properties": [
+    {
+      "name": "liuyang1.redisson.host",
+      "type": "java.lang.String",
+      "description": "redis服务器地址ip",
+      "defaultValue": "localhost"
+    },
+    {
+      "name": "liuyang1.redisson.port",
+      "type": "java.lang.Integer",
+      "description": "redis服务器端口号",
+      "defaultValue": "6379"
+    },
+    {
+      "name": "liuyang1.redisson.timeout",
+      "type": "java.lang.Integer",
+      "description": "redis服务器连接超时时间",
+      "defaultValue": "1000"
+    }
+  ]
+}
